@@ -1,8 +1,0 @@
-#gv
-#URL-REGEX,^https?:\/\/rr\d---sn-\w*.googlevideo.com\/
-DOMAIN-KEYWORD,rr1---sn-
-DOMAIN-KEYWORD,rr2---sn-
-DOMAIN-KEYWORD,rr3---sn-
-DOMAIN-KEYWORD,rr4---sn-
-DOMAIN-KEYWORD,rr5---sn-
-DOMAIN-KEYWORD,rr6---sn-
